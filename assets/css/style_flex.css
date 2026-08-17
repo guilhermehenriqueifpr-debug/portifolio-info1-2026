@@ -1,9 +1,9 @@
-.container{
+.container {
     background-color: gray;
     display: flex;
     flex-direction: row;
 }
-.quadrado_vermelho{
+.quadrado_vermelho {
     background-color: red;
     width: 100px;
     height: 100px;
